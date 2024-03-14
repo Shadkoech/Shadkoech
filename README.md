@@ -12,10 +12,10 @@ I'm Koech Shadrack from Kenya, and I am a passionate fullstack Software Engineer
 - HTML: 🌐
 - CSS: 🎨
 
- DJANGO /FLASK/FIGMA/ REACT / Node.JS / HTML / CSS/
+- 🔭 I’m currently working on my portfolio page 
+- 📫 How to reach me: https://www.linkedin.com/in/koechkshadrack/ 
+- ⚡ Fun fact: My all-time favorite movie is "Interstellar." I'm fascinated by its exploration of space, time, and the human condition. 
 
-- 🔭 I’m currently working on this page. 
 
-
-
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Shadkoech)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/koechkshadrack//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/https://twitter.com/Shad_Koech)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://shadkoech.github.io/Kibhoret_LandingPage/)  
 
