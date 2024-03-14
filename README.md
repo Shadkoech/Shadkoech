@@ -21,11 +21,9 @@ I'm a passionate full-stack Software Engineer from Kenya. I do enjoy learning ne
 
 
  ## Stats.
+ <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shadkoech&layout=compact&theme=dark&hide_border=false" /></p>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=Shadkoech&show_icons=true&include_all_commits=true&count_private=true&layout=compact&theme=dark&hide_border=false&border_radius=2&hide=contribs" alt="Koech Shadrack Github stats" /></p>
-
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Shadkoech&theme=dark" alt="Shadkoech" /></p>
 <br/>
 
