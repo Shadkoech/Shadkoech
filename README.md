@@ -1,6 +1,6 @@
 ![Software Engineer](https://github.com/Shadkoech/Shadkoech/blob/main/Make%20your%20README.png)
 
-# Koech Shadrack
+<h1 align="center">Koech Shadrack</h1> 
 I'm a passionate full-stack Software Engineer from Kenya. I do enjoy learning new languages and most recently developed Frameworks such as React and React Native, Django etc. My Mantra is consistent effort for continued growth and development in the field of S.E
 
 <h3 align="left">Skills and Experience:</h3>
