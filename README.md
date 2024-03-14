@@ -4,16 +4,17 @@
 I'm Koech Shadrack from Kenya, and I am a passionate fullstack Software Engineer. I do enjoy learning new languages and Frameworks such as React and React Native, Django etc. My Mantra is consistent effort for continued growth and development in the field of SE
 
 ## Skills and Experience
-- Python with Django: 🐍
-- Flask: 🌿
-- Figma: 🎨
-- React: ⚛️
-- Node.js: 🟢
-- HTML: 🌐
-- CSS: 🎨
+- 🐍 Python with Django
+- 🌿 Flask
+- 🎨 Figma
+- ⚛️ React
+- 💻 HTML, CSS, Node.js
+- 🐬 MySQL, PostgreSQL
 
+
+## Socials
 - 🔭 I’m currently working on my portfolio page 
-- 📫 How to reach me: https://www.linkedin.com/in/koechkshadrack/ 
+- 📫 How to reach me: Contact on https://www.linkedin.com/in/koechkshadrack/ or email me `shadrackipruto@gmail.com`
 - ⚡ Fun fact: My all-time favorite movie is "Interstellar." I'm fascinated by its exploration of space, time, and the human condition. 
 
 
