@@ -22,3 +22,9 @@ I'm Koech from Kenya, and I am a passionate fullstack Software Engineer. I do en
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Shadkoech)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/koechkshadrack//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/https://twitter.com/Shad_Koech)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://shadkoech.github.io/Kibhoret_LandingPage/)  
 
+
+ ## Stats.
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shadkoech&layout=compact&theme=dark&hide_border=false" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=Shadkoech&show_icons=true&include_all_commits=true&count_private=true&layout=compact&theme=dark&hide_border=false&border_radius=2&hide=contribs" alt="Koech's Github stats" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Shadkoech&theme=dark" alt="Shadkoech" /></p>
+<br/>
