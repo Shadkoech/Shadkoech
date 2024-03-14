@@ -3,6 +3,7 @@
 # Koech Shadrack
 I'm a passionate full-stack Software Engineer from Kenya. I do enjoy learning new languages and most recently developed Frameworks such as React and React Native, Django etc. My Mantra is consistent effort for continued growth and development in the field of S.E
 
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 ## Skills and Experience
 - 🐍 Python with Django
 - 🌿 Flask
