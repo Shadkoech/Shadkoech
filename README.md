@@ -1,7 +1,7 @@
 ![Software Engineer](https://github.com/Shadkoech/Shadkoech/blob/main/Make%20your%20README.png)
 
 # Koech Shadrack
-I'm Koech Shadrack from Kenya, and I am a passionate fullstack Software Engineer. I do enjoy learning new languages and Frameworks such as React and React Native, Django etc. My Mantra is consistent effort for continued growth and development in the field of SE
+I'm Koech from Kenya, and I am a passionate fullstack Software Engineer. I do enjoy learning new languages and Frameworks such as React and React Native, Django etc. My Mantra is consistent effort for continued growth and development in the field of SE
 
 ## Skills and Experience
 - 🐍 Python with Django
@@ -14,7 +14,7 @@ I'm Koech Shadrack from Kenya, and I am a passionate fullstack Software Engineer
 
 ## Socials
 - 🔭 I’m currently working on my portfolio page 
-- 📫 How to reach me: Contact on https://www.linkedin.com/in/koechkshadrack/ or email me `shadrackipruto@gmail.com`
+- 📫 Reach me on [Linkedin](https://www.linkedin.com/in/koechkshadrack/) or email me [gmail](shadrackipruto@gmail.com) 
 - ⚡ Fun fact: My all-time favorite movie is "Interstellar." I'm fascinated by its exploration of space, time, and the human condition. 
 
 
