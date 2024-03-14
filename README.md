@@ -14,6 +14,7 @@ I'm Koech from Kenya, and I am a passionate fullstack Software Engineer. I do en
 
 ## Socials
 - 🔭 I’m currently working on my portfolio page 
+- 💬 Read my blog [here ](https://medium.com/@shadrackipruto)
 - 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/koechkshadrack/) or email me at [shadrackipruto@gmail.com](mailto:shadrackipruto@gmail.com).
 - ⚡ Fun fact: My all-time favorite movie is "Interstellar." I'm fascinated by its exploration of space, time, and the human condition. 
 
