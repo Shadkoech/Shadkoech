@@ -25,6 +25,6 @@ I'm Koech from Kenya, and I am a passionate fullstack Software Engineer. I do en
 
  ## Stats.
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shadkoech&layout=compact&theme=dark&hide_border=false" /></p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=Shadkoech&show_icons=true&include_all_commits=true&count_private=true&layout=compact&theme=dark&hide_border=false&border_radius=2&hide=contribs" alt="Koech's Github stats" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=Shadkoech&show_icons=true&include_all_commits=true&count_private=true&layout=compact&theme=dark&hide_border=false&border_radius=2&hide=contribs" alt="Koech Shadrack Github stats" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Shadkoech&theme=dark" alt="Shadkoech" /></p>
 <br/>
