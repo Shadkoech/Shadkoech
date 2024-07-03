@@ -9,6 +9,7 @@ I'm a passionate full-stack Software Engineer from Kenya. I do enjoy learning ne
 
 ## Socials
 - 🔭 Check out my portfolio page [ here ](https://portfolio.koech.tech/)
+- Check out my portfolio page <a href="https://portfolio.koech.tech/" target="_blank">here</a>
 - 💬 Read my blog [here ](https://medium.com/@shadrackipruto)
 - 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/koechkshadrack/) or email me at [shadrackipruto@gmail.com](mailto:shadrackipruto@gmail.com).
 - ⚡ Fun fact: My all-time favorite movie is "Interstellar." I'm fascinated by its exploration of space, time, and the human condition. 
